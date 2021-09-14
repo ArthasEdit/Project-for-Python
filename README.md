@@ -1,3 +1,3 @@
 # Project-for-Python
-# Project For Python {Valikhan; Gulshoda; ArthasEdit}
+# Project For Python {Valikhan; ArthasEdit}
 # We should divide our works!!!
