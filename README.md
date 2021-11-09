@@ -1,5 +1,7 @@
 # Welcome to our Project!
-# Creators: ArthasEdit; Valikhan
+# Creators
+- ArthasEdit
+- Valikhan
 # The 20 Richest People in the world from 2010 to 2021!!!
 # How to use our project on your PC?
 
